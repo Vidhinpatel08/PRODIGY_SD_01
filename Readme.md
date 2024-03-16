@@ -1,4 +1,4 @@
-## Temperature Converter (PyQt5)
+## Temperature Converter 
 
 This project implements a temperature converter application using PyQt5. It allows users to enter a temperature value and select the original unit (Celsius, Fahrenheit, or Kelvin). The program then converts the temperature to the other two scales and displays the results.
 
